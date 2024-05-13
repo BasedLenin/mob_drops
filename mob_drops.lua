@@ -1,1 +1,1 @@
-/run print((select(4, GetBuildInfo())))
+ok lets meme
