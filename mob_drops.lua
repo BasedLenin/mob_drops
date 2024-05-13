@@ -1,1 +1,1 @@
-memes :o
+/run print((select(4, GetBuildInfo())))
