@@ -1,0 +1,6 @@
+## Interface: 11502
+## Title: Mob Drops
+## Author: BasedLenin
+## Version: 0.01
+
+mob_drops.lua
